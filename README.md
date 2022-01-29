@@ -1,3 +1,10 @@
+<p>
+  <img width="500px" alt="Example" src="https://images.unsplash.com/photo-1606169109553-aa8c5e4a62b9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHBvcHNpY2xlfGVufDB8fDB8fA%3D%3D&w=1000&q=80"/>
+</p>
+
+[![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20IOS%20%7C%20Web-green)](https://img.shields.io/badge/Platform-Android%20%7C%20IOS%20%7C%20Web-green)
+
+
 # Flutter Flavour boilerplate code 
 
 Hi !!! Everyone I have created this repository to help everyone setup the flavors in flutter in 5 easy steps.
