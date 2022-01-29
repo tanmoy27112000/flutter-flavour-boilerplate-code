@@ -7,7 +7,7 @@
 
 # Flutter Flavour boilerplate code 
 
-Hi !!! Everyone I have created this repository to help everyone setup the flavors in flutter in 5 easy steps.
+Hi !!! Everyone I have created this repository to help everyone setup the flavors in flutter in 3 easy steps.
 
 > **If you you like this code please star this repository and show your support**
 
