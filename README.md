@@ -7,7 +7,7 @@
 
 # Flutter Flavour boilerplate code 
 
-Hi !!! Everyone I have created this repository to help everyone setup the flavors in flutter in 3 easy steps.
+Hi !!! Everyone I have created this repository to help everyone setup the flavors in flutter in 4 easy steps.
 
 > **If you you like this code please star this repository and show your support**
 
@@ -42,6 +42,12 @@ Hi !!! Everyone I have created this repository to help everyone setup the flavor
 
  > NOTE: If you have replaced all **flavourboilerplate** with your app name in the first step this will be replaced automatically
 
+ ## Step 4 : Generate the icons
+
+ - run this command in the terminal to generate the icons
+```
+flutter pub run flutter_launcher_icons:main -f flutter_launcher_icons*   
+```
 
  ## ALL SET 🎊🎊🎊🎊
 
